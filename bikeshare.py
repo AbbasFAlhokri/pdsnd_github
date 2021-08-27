@@ -1,5 +1,4 @@
 # add note one
-
 """
 To finish the project i got use of the following resources. 
 - https://github.com/ozlerhakan/bikeshare.git
@@ -272,4 +271,5 @@ def main():
 ###############################################################
 if __name__ == "__main__":
 	main()
+    display_data()
 ###############################################################
